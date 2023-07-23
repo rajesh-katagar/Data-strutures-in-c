@@ -1,0 +1,11 @@
+# ninja log v5
+20	3203	1689775324899283688	CMakeFiles/in_order_traversal.dir/main.c.o	1bd570312f5ee9ff
+3204	3812	1689775325536266392	in_order_traversal	23d27e35cd8d24db
+86	849	1689775411854085966	CMakeFiles/in_order_traversal.dir/main.c.o	1bd570312f5ee9ff
+850	1109	1689775412141120749	in_order_traversal	23d27e35cd8d24db
+39	589	1689775544639270180	CMakeFiles/in_order_traversal.dir/main.c.o	1bd570312f5ee9ff
+589	967	1689775545020317875	in_order_traversal	23d27e35cd8d24db
+135	960	1689775590137018322	CMakeFiles/in_order_traversal.dir/main.c.o	1bd570312f5ee9ff
+960	1344	1689775590523816201	in_order_traversal	23d27e35cd8d24db
+29	1738	1689775731443361702	CMakeFiles/in_order_traversal.dir/main.c.o	1bd570312f5ee9ff
+1744	2177	1689775731883210228	in_order_traversal	23d27e35cd8d24db

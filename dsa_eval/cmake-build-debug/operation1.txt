@@ -1,0 +1,2 @@
+6 is pushed
+6 is poped

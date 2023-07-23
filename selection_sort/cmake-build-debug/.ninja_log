@@ -1,0 +1,5 @@
+# ninja log v5
+0	71	1682149213570937976	CMakeFiles/selection_sort.dir/main.c.o	e63a0d45d406fca
+71	166	1682149213669137124	selection_sort	7b090188f7ac241c
+1	73	1685269776521452335	CMakeFiles/selection_sort.dir/main.c.o	e63a0d45d406fca
+74	305	1685269776757996527	selection_sort	7b090188f7ac241c

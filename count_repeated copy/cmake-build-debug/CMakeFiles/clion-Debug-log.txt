@@ -1,0 +1,4 @@
+/private/var/folders/p7/6ynlq7gx7g3cr39jvlw2gzk40000gn/T/AppTranslocation/2F6D98D3-D5C4-46F0-9BE0-8032D85D0678/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/p7/6ynlq7gx7g3cr39jvlw2gzk40000gn/T/AppTranslocation/2F6D98D3-D5C4-46F0-9BE0-8032D85D0678/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/rajeshkatagar/CLionProjects/data_structures/count_repeated -B /Users/rajeshkatagar/CLionProjects/data_structures/count_repeated/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rajeshkatagar/CLionProjects/data_structures/count_repeated/cmake-build-debug

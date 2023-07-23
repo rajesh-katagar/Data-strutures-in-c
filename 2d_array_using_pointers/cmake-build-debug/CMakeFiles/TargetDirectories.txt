@@ -1,0 +1,3 @@
+/Users/rajeshkatagar/CLionProjects/data_structures/2d_array_using_pointers/cmake-build-debug/CMakeFiles/2d_array_using_pointers.dir
+/Users/rajeshkatagar/CLionProjects/data_structures/2d_array_using_pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rajeshkatagar/CLionProjects/data_structures/2d_array_using_pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

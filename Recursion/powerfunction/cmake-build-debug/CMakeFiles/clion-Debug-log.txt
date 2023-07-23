@@ -1,0 +1,10 @@
+/private/var/folders/p7/6ynlq7gx7g3cr39jvlw2gzk40000gn/T/AppTranslocation/05F2D407-6FD1-4572-8A0E-FF1EDDA41467/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/p7/6ynlq7gx7g3cr39jvlw2gzk40000gn/T/AppTranslocation/05F2D407-6FD1-4572-8A0E-FF1EDDA41467/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/rajeshkatagar/CLionProjects/data_structures/Recursion/powerfunction -B /Users/rajeshkatagar/CLionProjects/data_structures/Recursion/powerfunction/cmake-build-debug
+-- The C compiler identification is AppleClang 12.0.0.12000032
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rajeshkatagar/CLionProjects/data_structures/Recursion/powerfunction/cmake-build-debug

@@ -1,0 +1,7 @@
+Fortification_A Fortification_B
+Fortification_A Fortification_C
+Fortification_B Fortification_D
+Fortification_C Fortification_E
+Fortification_C Fortification_F
+Fortification_D Fortification_E
+Fortification_E Fortification_F

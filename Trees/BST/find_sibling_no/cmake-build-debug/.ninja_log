@@ -1,0 +1,5 @@
+# ninja log v5
+1	88	1687171502297610718	CMakeFiles/find_sibling_no.dir/main.c.o	5c64c3476021ca0b
+88	194	1687171502408148142	find_sibling_no	e73821da2e15b720
+72	2074	1687793246054892416	CMakeFiles/find_sibling_no.dir/main.c.o	64c591f270c26ad2
+2074	2867	1687793246958917980	find_sibling_no	e73821da2e15b720

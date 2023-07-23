@@ -1,0 +1,3 @@
+/Users/rajeshkatagar/CLionProjects/data_structures/TERM WORK 2/Preorder traversal/Shopping/cmake-build-debug/CMakeFiles/Shopping.dir
+/Users/rajeshkatagar/CLionProjects/data_structures/TERM WORK 2/Preorder traversal/Shopping/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rajeshkatagar/CLionProjects/data_structures/TERM WORK 2/Preorder traversal/Shopping/cmake-build-debug/CMakeFiles/rebuild_cache.dir

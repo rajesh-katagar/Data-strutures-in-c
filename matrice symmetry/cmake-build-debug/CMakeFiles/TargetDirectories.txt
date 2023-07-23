@@ -1,0 +1,3 @@
+/Users/rajeshkatagar/CLionProjects/matrices/cmake-build-debug/CMakeFiles/matrices.dir
+/Users/rajeshkatagar/CLionProjects/matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rajeshkatagar/CLionProjects/matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir

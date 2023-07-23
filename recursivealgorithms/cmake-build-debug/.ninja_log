@@ -1,0 +1,7 @@
+# ninja log v5
+1	482	1683632200012482505	CMakeFiles/recursivealgorithms.dir/main.c.o	e2d293e1f843e43c
+483	750	1683632200291646083	recursivealgorithms	b34188d6cf65ff0c
+1	919	1685269443542240259	CMakeFiles/recursivealgorithms.dir/main.c.o	e2d293e1f843e43c
+919	1207	1685269443831450534	recursivealgorithms	b34188d6cf65ff0c
+1	110	1685269467737443708	CMakeFiles/recursivealgorithms.dir/main.c.o	e2d293e1f843e43c
+110	180	1685269467809495116	recursivealgorithms	b34188d6cf65ff0c

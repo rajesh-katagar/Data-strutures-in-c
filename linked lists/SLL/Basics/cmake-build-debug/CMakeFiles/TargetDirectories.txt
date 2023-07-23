@@ -1,0 +1,3 @@
+/Users/rajeshkatagar/CLionProjects/data_structures/linked lists/SLL/Basics/cmake-build-debug/CMakeFiles/Basics.dir
+/Users/rajeshkatagar/CLionProjects/data_structures/linked lists/SLL/Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rajeshkatagar/CLionProjects/data_structures/linked lists/SLL/Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

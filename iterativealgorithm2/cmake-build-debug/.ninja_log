@@ -1,0 +1,13 @@
+# ninja log v5
+0	252	1683626535446398426	CMakeFiles/iterativealgorithm2.dir/main.c.o	78e6152b9dfcbeb9
+253	333	1683626535529103850	iterativealgorithm2	a4c5ee1e8887e9a3
+0	66	1683626571538362852	CMakeFiles/iterativealgorithm2.dir/main.c.o	78e6152b9dfcbeb9
+66	177	1683626571650253394	iterativealgorithm2	a4c5ee1e8887e9a3
+1	74	1683626589681799209	CMakeFiles/iterativealgorithm2.dir/main.c.o	78e6152b9dfcbeb9
+75	164	1683626589773970333	iterativealgorithm2	a4c5ee1e8887e9a3
+1	103	1683627067806524856	CMakeFiles/iterativealgorithm2.dir/main.c.o	78e6152b9dfcbeb9
+103	217	1683627067921590349	iterativealgorithm2	a4c5ee1e8887e9a3
+0	74	1683627111990506836	CMakeFiles/iterativealgorithm2.dir/main.c.o	78e6152b9dfcbeb9
+74	177	1683627112097062246	iterativealgorithm2	a4c5ee1e8887e9a3
+0	71	1683627170129419625	CMakeFiles/iterativealgorithm2.dir/main.c.o	78e6152b9dfcbeb9
+71	170	1683627170231313483	iterativealgorithm2	a4c5ee1e8887e9a3

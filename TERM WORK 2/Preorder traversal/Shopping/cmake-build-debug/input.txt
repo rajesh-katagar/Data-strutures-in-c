@@ -1,0 +1,7 @@
+Fruits
+Apple
+Banana
+
+Vegetables
+Carrot
+Brinjal

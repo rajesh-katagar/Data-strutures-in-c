@@ -1,0 +1,14 @@
+Fruits
+Apple
+Banana
+Orange
+Vegetables
+Carrot
+Broccoli
+Dairy
+Milk
+Cheese
+Snacks
+Chips
+Cookies
+Pretzels
